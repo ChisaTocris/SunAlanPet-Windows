@@ -1,0 +1,7 @@
+Assets/
+bin/
+obj/
+publish/
+dist/
+upstream/
+.assets-staging-*/

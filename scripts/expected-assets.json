@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "repositories": [
+    {
+      "name": "SunPet",
+      "owner": "Ganzhe2028",
+      "commit": "9b68d0911552d8c880a46ca72980d3f9af9743ee"
+    },
+    {
+      "name": "ShaolanPet",
+      "owner": "Ganzhe2028",
+      "commit": "7ce7e2b1ed49c4da66d19d5aac419794af0d32db"
+    }
+  ],
+  "pets": [
+    {
+      "name": "SunPet"
+    },
+    {
+      "name": "ShaolanPet"
+    }
+  ],
+  "files": [
+    {
+      "pet": "SunPet",
+      "path": "clips.json",
+      "sha256": "5beb786a65b49d409179cf8cd216debeb4982724c43cd002d41e6021a5136f2a"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/01.m4a",
+      "sha256": "b2054ef173cd601a0a4e157d61e9e574eb46977dc77a89e466154eeb9a0dc623"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/02.m4a",
+      "sha256": "fdbd0c2f251b518659460466aa1a55f5187eec05e0da955e727d58372b4d0721"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/03.m4a",
+      "sha256": "d16f9081a5282dd0f53560f0e60c4e326202cb63d1c920e8c315a37200750b25"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/04.m4a",
+      "sha256": "d5475f4ec939a313804fc3773ee56ec3ebef58e9c6e2e00ea3c0d7950e7bdca1"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/05.m4a",
+      "sha256": "7f385400c17b98859a1f0029742ab0abf1bcff8e87ea6e26269294ff69b42354"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/06.m4a",
+      "sha256": "dc0f2b925d699e6c9a26f4f949ad1e601eed50f3d709bb8f64794cf63cad816e"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/07.m4a",
+      "sha256": "181075e634562f425b0a6e5130476a6d768e107ffe6d1d0b61502a06d073caa5"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/08.m4a",
+      "sha256": "56098244a6309283dd4b1fdac384487a2310448ebaf398933ca9c4a1040edf3d"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/09.m4a",
+      "sha256": "07f40e01d3307998aead445cd2abd027d61185b18376fd68b1c5d06abaff20e8"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/10.m4a",
+      "sha256": "c34b1ddfaefe994d2acadd5ba262177b0b081fb62b52ce0522df2a2909026f72"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/11.m4a",
+      "sha256": "922b071721ff70f541e859579889e3c34e6474a0e1ecbfcdb4287842a509aed8"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/12.m4a",
+      "sha256": "06bfd6641d39711eacd2e0e4294c2b37c1e3e8b70f0bfb24265f1595a35ca8bf"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/13.m4a",
+      "sha256": "0f3cad95b513cf16e7f6e33134a50263d74c5ef49c7be0ed206fbe024fbb0de7"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/14.m4a",
+      "sha256": "a7d0071ea6c83880c85a21d86742094638e5d0615b275fb6faa10878d05cc010"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/15.m4a",
+      "sha256": "a962414fd04b4bb7439f88efa5e014a00989273d3abe750c52b8b0afb6b76544"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/16.m4a",
+      "sha256": "c09a79eaf8fa73b743cfcde5b5034ac5d1a8d9deb90d6ea745b798cf901fd98e"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/17.m4a",
+      "sha256": "0412196493deb7e8c66dc65e228c3d80e33a48d1487da3671dcc50dbbf9ca5cc"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/18.m4a",
+      "sha256": "cc647c9dcfc8e3a54acc4dae5382b71e0a8c66386bab0ca30801112b946be92e"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/19.m4a",
+      "sha256": "429429ac84df0c3c4203b282174dcfd210e4772da0c83f54d35750a078de3812"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/20.m4a",
+      "sha256": "ef98b6ad05705f561f41ace973777b2a193ed7d118defe2d8ba88605b6ed1ae7"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/21.m4a",
+      "sha256": "eecaca85bb7b1a1f31555907285dff9d3d471f7ed4f119fde20812e70bbce880"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/22.m4a",
+      "sha256": "55abf90b8f084ffba1f50e7f251b3766a1460c47b7d1ecd35292c2445772a685"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/23.m4a",
+      "sha256": "9a6c8c9861986da6a2551252f4b64a010e872b10cb0c9860f21944c6ff8fa1db"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/24.m4a",
+      "sha256": "5f05652ecb55e7fa03cf2545b91776f48f781ea9b61189daf5e5a0302d37a1f6"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/25.m4a",
+      "sha256": "0e9fdba77693a4ba0eaa39144966cf7b2bfca7a82793ac48a61e0c73efcc4167"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/26.m4a",
+      "sha256": "dd8e41431694a9e3e89423a3b35f812c8cde57f22e48a72f3c0d193e0ac665a2"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/27.m4a",
+      "sha256": "a7f48073300a4362dea1446d4372aaf0c94a736994cebce4f46423fecd51a217"
+    },
+    {
+      "pet": "SunPet",
+      "path": "Clips/28.m4a",
+      "sha256": "f4bae001992e4e54ea06d3a200e550ae29cb47e92c6c6f227c1cfaa973eda747"
+    },
+    {
+      "pet": "SunPet",
+      "path": "face.png",
+      "sha256": "a0b56420fd3db6d88d401625ed6d61a1ddbf1c3cbdd70cfa049a7d4a57143d94"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "clips.json",
+      "sha256": "ea7d659f62c4f72ed214b744554470e8d696063aeb1cdbf2f7be415ca762a235"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/01.wav",
+      "sha256": "ec346e2a014b945c153e8bf3aac84a69b7836dfb183b8090ff69b5bee9d063ce"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/02.wav",
+      "sha256": "6490ca0f0d0006ffa5361ce3bc99ab3f374a8a5088920479f81418a6b347c6ae"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/03.wav",
+      "sha256": "07680612664b1392eb7938660041867b669f202acbdfb2e281c546cf7ac1744c"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/04.wav",
+      "sha256": "f6e2dc8a5b82126d0bd5cabd1e1bda62a70aafe5b3153e85abfb907f65e90c75"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/05.wav",
+      "sha256": "2180e494d68524fc2eea6cb41936e5ede818633dbd17212851fbb4ca7f4bdefd"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/06.wav",
+      "sha256": "5690c606a01c3b6b4d46c292d25bf7054c9f8ebfd6fbafcf0fe22e7154e40e71"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/07.wav",
+      "sha256": "535f17f5eca3a4c7dce3f69f2303a3c6634ed21bb222143b4f8f67295c4d9288"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/08.wav",
+      "sha256": "48dad74bd2dc0cd400c51d8fe876cf29be4973a6d647c8efb8eeaf062eba0231"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/09.wav",
+      "sha256": "4f8b28215cd67d25efd468b435231d5b6764a16f48fd76590036567c6691acd0"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/10.wav",
+      "sha256": "eabd36a9935774886a635ec7d2adf836523df2482f7f0f059b09b868ef46a073"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/11.wav",
+      "sha256": "944929b389551d5b6fedf10d6b499d47269d3a868913e0948b7606a114fef602"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/12.wav",
+      "sha256": "7138806d8a5cf598c7aca2025aef8cba6bb98c5c068d345643938440e4047ca6"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/13.wav",
+      "sha256": "c1da0a76f304cfe93d140b7de33b8ee826f6f6f59e7afa50378fed58c7d5d23c"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/14.wav",
+      "sha256": "9ea98df6a7e6ed81e741fdba888f3f9fd96fbad7c4727e4172ef3c0cc1eadc5d"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/15.wav",
+      "sha256": "510e70a4ef51eaa33b254bcbc06e8c1692c9f5e71a88befb12446a01f8aa3430"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/16.wav",
+      "sha256": "41cce24b69ba81025ccd913a08c7082b09811a110920070bff7f044c56905df0"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/17.wav",
+      "sha256": "777392cefb4cdf4bf925dfba07c00ad16aee5d769d74bc8f4a1bc77e517264a9"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/18.wav",
+      "sha256": "2ca662587a4827ad5a89c3ceb278dbf2d785cbce006dfd6b0af0d8a59f9e1e57"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/19.wav",
+      "sha256": "01a4e44dc4638c66897bcb677be9c406dfd06b4bc349294212fd2b6588f0d807"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/20.wav",
+      "sha256": "71de773ef4afeec705e279b1449376b6d862d9ef1b2560e11e0886dcb058d233"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/21.wav",
+      "sha256": "0a0da41839a20095b09b268b9640b9c9f07aeb64393d076a2014c305fd95445c"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/22.wav",
+      "sha256": "86e33f51b44fea887dac5899aa9bfe979f846e88d94c9ca28f9785eced0e6864"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/23.wav",
+      "sha256": "1f1c924b02aa865e8e6c236c7b4a2fc3ce90d7e7e57bb970122f2141ffe2d1a4"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/24.wav",
+      "sha256": "4ab4a9cceeb066c9edaf500c7217b93b19f113d55f5d86d26819a83adad0a2d8"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/25.wav",
+      "sha256": "b92e6196506fd3c3ae4d0af35cf01c8bc9209033429957d590b83dfca517d770"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/26.wav",
+      "sha256": "aa57e686a30aa6c6caac8d12c1ff0fac24bba48ac9e07f2cba07311408fe827d"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/27.wav",
+      "sha256": "2871367c4144b1099ea08aff29bc850ec6252ae4efceb8de157df1ac83846362"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/28.wav",
+      "sha256": "2ac509b8b2a2eb84ec015536b8111b92c86a08841f16c578b37d253c79a5a8ac"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/29.wav",
+      "sha256": "ca1a0ee2e1f03d10be372839a2e4cc345c23df2e10a8311414c8cbeb19a8780f"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/30.wav",
+      "sha256": "ea1e1b9130ae1c2e1a523fa432ca99a0d65883327dc3310398d25a4da90ed79d"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/31.wav",
+      "sha256": "1f22f43df3b9ef6db38c7669e518734edbca24ee1f56c306588da0dc0966ecd8"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/32.wav",
+      "sha256": "6f3ce3aa67139a6fdd70d82a54653f4a15ca7a797953ec0760dd503426bed1eb"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/33.wav",
+      "sha256": "d6bedde713d0734cfbddd4e6d798110843664f0c63622e2c9eed4eceab8606db"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/34.wav",
+      "sha256": "be2ef49a878feb266f845f739307fc8cf5f519270898b6e260fdb7a5bbf03c01"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/35.wav",
+      "sha256": "88cda86e1a55d6de8644f84732deb601705eb715d73f69e0f95488b03e524fbc"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/36.wav",
+      "sha256": "0373acf69cae3e4bb3e47eeefebffea56e8848b31cb3a79cd7c4086fbb5f32c2"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "Clips/37.wav",
+      "sha256": "33f79edf742f841c5031b41868c9cc640ce7944258d6a5b11318cbd1ff9c4f4c"
+    },
+    {
+      "pet": "ShaolanPet",
+      "path": "face.png",
+      "sha256": "c65a6ed7b361ccb54c6167e6dc6369eefa475e816e91d458ce132aca878dc57a"
+    }
+  ]
+}
